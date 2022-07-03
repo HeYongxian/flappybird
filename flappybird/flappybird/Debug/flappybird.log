@@ -1,0 +1,3 @@
+﻿  flappybird.cpp
+c:\users\86153\desktop\源代码——flappybird\flappybird\flappybird.cpp(489): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+  flappybird.vcxproj -> C:\Users\86153\Desktop\源代码——flappybird\Debug\flappybird.exe
